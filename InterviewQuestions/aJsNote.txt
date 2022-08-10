@@ -1,0 +1,5 @@
+Event Loop Concept
+Understand how event loop, multi threading and concurrency works in JavaScript.
+
+Hello friends, this video is really helpful to understand practical approach of understanding event loop concept in javascript.
+As we know javascript is single thread language but we can do many things background of JavaScript
